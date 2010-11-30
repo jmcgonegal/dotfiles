@@ -1,0 +1,9 @@
+urxvt*fading: 20
+urxvt*transparent: true
+urxvt*shading: 15
+urxvt*blendType: add
+urxvt*blurRadius: 10
+urxvt*foreground: #ffffff
+urxvt*pointerColor: #000000
+urxvt*background: #000000
+urxvt*saveLines: 10000
