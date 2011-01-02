@@ -2,7 +2,8 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set softtabstop=4
-:color desert
+let g:molokai_original=1
+:color molokai
 syntax on
 filetype off
 filetype plugin indent on
@@ -22,4 +23,3 @@ set ttyfast
 set ruler
 set backspace=indent,eol,start
 set laststatus=2
-
